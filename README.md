@@ -8,7 +8,7 @@
 + sudo apt install apache2
 + sudo leafpad /etc/apache2/ports.conf
 <br>
-You can find  listen line 80 and change it 8080
+You can find  listen line 80 and change it to 8080
 
 + sudo service apache2 start
 
