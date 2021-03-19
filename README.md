@@ -9,7 +9,7 @@
 + sudo leafpad /etc/apache2/ports.conf
 <br>
 You can find  listen line 80 and change it 8080
-<br>
+
 + sudo service apache2 start
 
 
